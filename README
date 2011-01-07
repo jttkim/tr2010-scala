@@ -1,1 +1,39 @@
 thanx for reading me
+
+Global setup:
+
+ Download and install Git
+  git config --global user.name "Jan T. Kim"
+  git config --global user.email jttkim@gmail.com
+  Add your public key
+        
+
+Next steps:
+
+  mkdir tr2010-scala
+  cd tr2010-scala
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:jttkim/tr2010-scala.git
+  git push origin master
+      
+
+Existing Git Repo?
+
+  cd existing_git_repo
+  git remote add origin git@github.com:jttkim/tr2010-scala.git
+  git push origin master
+      
+
+Importing a Subversion Repo?
+
+  Click here
+      
+
+When you're done:
+
+  Continue
+
+
